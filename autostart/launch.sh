@@ -1,0 +1,1 @@
+/home/jacob/.config/polybar/launch.sh
